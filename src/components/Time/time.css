@@ -1,0 +1,9 @@
+.time {
+  font-size: 12px;
+  font-weight: 400;
+  color: #605E5C;
+  display: flex;
+}
+.time-check {
+  margin-left: 2px;
+}
